@@ -6,6 +6,8 @@ class StaticPagesController < ApplicationController
     end
   end
 
+  # todo don't be late
+
   def help
   end
 
